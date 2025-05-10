@@ -35,12 +35,12 @@ const ItemUl = styled.div`
 `
 
 const Card = styled.div`
-margin-left: 48px;
+  margin-left: 48px;
   width: 200px;
   height: 288px;
   padding: 20px;
   position: relative;
-  border: 1px solid black;
+  border: 1px solid #e6b422;
   border-radius: 8px;
 `
 
@@ -51,7 +51,6 @@ const Icon = styled.img`
 
 const CardTitle = styled.h4`
   font: normal normal 400 18px / 24px sans-serif;
-  color: #202124;
   margin: 0 0 8px;
   padding: 0;
   height: 72px;

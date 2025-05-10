@@ -9,7 +9,6 @@ const Wrapper = styled.div`
 const LargeSentence = styled.h2`
   font: normal normal 400 40px / 56px sans-serif;
   letter-spacing: .5px;
-  color: #3c4043;
   margin: 32px 0 7px;
 `
 
